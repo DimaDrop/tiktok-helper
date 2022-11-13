@@ -1,0 +1,28 @@
+#root {
+  text-align: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100%;
+  width: 100%;
+  transition: 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.docsPages {
+  padding: 25px;
+  text-align: left;
+}

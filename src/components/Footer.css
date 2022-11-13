@@ -1,0 +1,13 @@
+.footer {
+    border-top: 1px solid #fff;
+    height: 7rem;
+    /* margin: 10px; */
+    padding-top: 20px;
+    width: 100%;
+    position: block;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: #131313;
+  }
+  
